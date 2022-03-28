@@ -11,7 +11,7 @@
 #include <main.h>
 
 int main(void) {
-    char* rootKey = "don't give up";
+    char* rootKey = "Yak tebe ne liubyty";
     char* message = "The password is \"KGB257CIA1902\"";
     char encrypted[40];
     char decrypted[40];
